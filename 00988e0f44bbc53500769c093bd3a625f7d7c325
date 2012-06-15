@@ -118,3 +118,11 @@ Versions:
 2011.06.16 which is Markus K's version
 2012.06.08 which is Mohamed's version
 2011.12.13 which is Andreas's version
+
+test_suite/: 00988e0 added RandomPol and IsIrreducible to CommonHomalgTableForSingularTools
+
+Versions:
+2011.09.12 which is Markus L-H's version
+2011.06.16 which is Markus K's version
+2012.06.08 which is Mohamed's version
+2011.12.13 which is Andreas's version
