@@ -11,3 +11,8 @@ ExamplesForHomalg/: 6b6da9c test GetRidOfRowsAndColumnsWithUnits in SimplerEquiv
 
 Versions:
  2012.05.31
+
+Gauss/: 991a669 Changed the name of the C method
+
+Versions:
+ 2012.04.23
