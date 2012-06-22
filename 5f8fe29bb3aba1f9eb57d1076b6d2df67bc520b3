@@ -54,3 +54,9 @@ IO_ForHomalg/: 649f07b added Sebastian Gutsche as author
 
 Versions:
  2012.05.24
+
+LocalizeRingForHomalg/: e3aaba0 renamed IsLocalRing -> IsLocal
+
+Versions:
+2011.04.26 which is Markus' version
+2012.05.27 which is Mohamed's version
