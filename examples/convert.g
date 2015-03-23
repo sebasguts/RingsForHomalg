@@ -98,3 +98,5 @@ Print( "~~~~~~~~~~~~~~~~~~\n\n" );
 Print( "Success: ", b, "\n\n" );
 
 Assert( 0, b );
+
+QUIT;

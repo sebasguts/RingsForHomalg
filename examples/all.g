@@ -25,3 +25,5 @@ for f in files do
     Print( "\n--------------------------------\n" );
     
 od;
+
+QUIT;
